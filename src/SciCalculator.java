@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //New comment for Lab4B
 
 public class SciCalculator {
     public static void main(String args[]) {    //Main method; returns no values
